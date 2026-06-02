@@ -30,6 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://flutter.dev/assets/icon_flutter.817b4a56b047d0d36b338dd9ffd44dbd.svg" height="40" alt="flutter logo"  />
 </div>
 
 ###
@@ -39,7 +41,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/AndresTafur217/AndresTafur217/output/snake.svg" alt="Snake animation" />
 
 ###
