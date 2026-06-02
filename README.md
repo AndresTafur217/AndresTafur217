@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">Soy un desarrollador de software con experiencia en varios proyectos enfocados en el desarrollo web. Actualmente, estoy explorando nuevas tecnologías y mejorando mis habilidades en JavaScript y marcos relacionados. Estoy basado en un lugar no revelado y busco constantemente aprender.</p>
+<p align="left">Desarrollador de software con experiencia en varios proyectos enfocados en el desarrollo web y de escritorio. Actualmente, estoy explorando nuevas tecnologías y mejorando mis habilidades en JavaScript y marcos relacionados. Busco constantemente aprender.</p>
 
 ###
 
